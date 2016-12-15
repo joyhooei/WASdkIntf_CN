@@ -79,6 +79,7 @@ extern NSString *const WAEventUserCreate;
 extern NSString *const WAEventTaskUpdate;
 extern NSString *const WAEventGoldUpdate;
 extern NSString *const WAEventUserImport;
+extern NSString *const WAEventSession;
 
 extern NSString *const WAEventParameterNameRegistrationMethod;
 
