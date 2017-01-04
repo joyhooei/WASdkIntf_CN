@@ -46,11 +46,11 @@
 		</data>
 		<key>Headers/WACore.h</key>
 		<data>
-		cQy6cSvYVBa2gRGQDboqK1+9B5I=
+		kxjkBwOjl+iJdtHpoC8sRSeklz4=
 		</data>
 		<key>Headers/WACoreProxy.h</key>
 		<data>
-		WLCmt9dT8cZqb61Iqhy/MMORnfI=
+		px794bHQqEJJMY6PXNxOxTCPW5w=
 		</data>
 		<key>Headers/WAError.h</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Headers/WASdkIntf.h</key>
 		<data>
-		N7BH2PsvAmxnpqv7prWAvUsQKbs=
+		cruS+4Mmr445RNf0mW43Jv7qDWw=
 		</data>
 		<key>Headers/WAShareLinkContent.h</key>
 		<data>
@@ -182,7 +182,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3cbdxUKcZuwq05lDo99YQdgRerc=
+		qtdbkV82k1FPV6ei3f06E2kqnl8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -305,22 +305,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cQy6cSvYVBa2gRGQDboqK1+9B5I=
+			kxjkBwOjl+iJdtHpoC8sRSeklz4=
 			</data>
 			<key>hash2</key>
 			<data>
-			4tRvFJihGfwvfaTG+UnPk1JWfl+SyEFSsjUX66iehhU=
+			eHwK328oCkAyepFk5nmn2ow/47/0geOrdJzyyAxMu6Q=
 			</data>
 		</dict>
 		<key>Headers/WACoreProxy.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WLCmt9dT8cZqb61Iqhy/MMORnfI=
+			px794bHQqEJJMY6PXNxOxTCPW5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			hVZq03EGsfqsq2J2mV6P1ySZ9wc1q1sWGMZNe4vm7Kc=
+			Y5nl8ohpCu0/tiGVW8e4Ncnjo7frNAn1tV5usZzcQYQ=
 			</data>
 		</dict>
 		<key>Headers/WAError.h</key>
@@ -558,11 +558,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N7BH2PsvAmxnpqv7prWAvUsQKbs=
+			cruS+4Mmr445RNf0mW43Jv7qDWw=
 			</data>
 			<key>hash2</key>
 			<data>
-			+E5RXWRmkvjR6t0F+KE8lebhhMK3aUMipcgEBzG0FUo=
+			ll4SXYdPG5Gro5uKX3qxUiGzIbXpAmT5ZJMdqiFp2iE=
 			</data>
 		</dict>
 		<key>Headers/WAShareLinkContent.h</key>

@@ -71,7 +71,10 @@ NSLog((@"WASDK LOG [(version %@) %s ]:" fmt), [WACoreProxy getSdkVer],__FUNCTION
  @abstract 是否显示Log按钮
  */
 +(BOOL)displayLog;
-
+/*!
+ @abstract 设置clientId
+ */
++(void)setClientId:(NSString*)clientId;
 /*!
  @abstract 获取userId
  */
