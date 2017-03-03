@@ -81,7 +81,7 @@ NSLog((@"WASDK LOG [(version %@) %s ]:" fmt), [WACoreProxy getSdkVer],__FUNCTION
 +(NSString*)getUserId;
 /*!
  @abstract 设置serverId
- @param serverId
+ @param serverId 服务器id
  */
 +(void)setServerId:(NSString *)serverId;
 /*!
@@ -91,7 +91,7 @@ NSLog((@"WASDK LOG [(version %@) %s ]:" fmt), [WACoreProxy getSdkVer],__FUNCTION
 +(NSString*)getServerId;
 /*!
  @abstract 设置level
- @param level
+ @param level 等级
  */
 +(void)setLevel:(int)level;
 /*!
@@ -100,7 +100,7 @@ NSLog((@"WASDK LOG [(version %@) %s ]:" fmt), [WACoreProxy getSdkVer],__FUNCTION
 +(int)getLevel;
 /*!
  @abstract 设置gameUserId
- @param gameUserId
+ @param gameUserId 游戏userId
  */
 +(void)setGameUserId:(NSString*)gameUserId;
 /*!
