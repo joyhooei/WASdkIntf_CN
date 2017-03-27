@@ -9,8 +9,8 @@
 Pod::Spec.new do |s|
 
 s.name = 'WASdkIntf_CN'
-s.version = '1.1.2'
-s.summary = 'WASdkIntf framework in production environment.'
+s.version = '1.1.3'
+s.summary = 'WASdkIntf_CN framework in testing environment.'
 s.license = 'MIT'
 s.author = { "Hank" => "hank.zhang@gamehollywood.com" }
 s.homepage = 'http://repo.wingsdk.cn:8082/summary/WASdkIntf_CN.git'
