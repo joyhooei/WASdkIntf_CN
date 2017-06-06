@@ -23,4 +23,5 @@
 @property(nonatomic,strong)NSNumber* enableNewAccount;
 @property(nonatomic,strong)NSNumber* enableChangeAccount;
 @property(nonatomic,strong)NSNumber* isTestDevice;
+@property(nonatomic,copy)NSString* userAgreementUrl;
 @end
